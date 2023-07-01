@@ -1,5 +1,5 @@
 # Design-Architecture-layout
-=============
+
 <`Link`>: <https://miss-kiparis.github.io/Design-Architecture-layout/>
 
     Всі секції у верхній половині сайту (верхнє меню, The latest news, Most popular posts) виконані за допомогою Flexbox
